@@ -34,3 +34,5 @@ try:
 except KeyboardInterrupt:
     # Exit program when the stop button or CTRL-C is pressed
     sys.exit()
+
+print('CTRL-C Pressed!')
